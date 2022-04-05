@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+.searchBar {
+  position: relative;
+  margin-top: 50px;
+}
+
+.movie-input {
+  box-sizing: border-box;
+  width: 500px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.search-btn {
+  box-sizing: border-box;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  margin-left: 10px;
+  font-size: 14px;
+  border: 1px solid black;
+  background-color: white;
+  cursor: pointer;
+}
