@@ -4,11 +4,12 @@ body {
 }
 
 .App {
-  text-align: center;
+  
 }
 .searchBar {
   position: relative;
-  margin-top: 50px;
+  margin-top: 75px;
+  text-align: center;
 }
 
 .movie-input {
